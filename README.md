@@ -1,2 +1,2 @@
 # veidhlin
-it's about how you make phph is easier
+it's about how you make php is easier
